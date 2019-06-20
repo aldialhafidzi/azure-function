@@ -1,62 +1,53 @@
+require('dotenv').config();
 
+var redis = require("redis"),
+    client = redis.createClient({
+        port: process.env.REDIS_PORT,
+        host: process.env.REDIS_HOST,
+        password: process.env.REDIS_PASSWORD
+    });
 
-// const {
-//     parse
-// } = require('querystring');
+const asyncRedis = require("async-redis");
+const asyncRedisClient = asyncRedis.decorate(client);
 
+const Keyv = require('keyv');
+const keyv = new Keyv('redis://'+process.env.REDIS_USER+':'+process.env.REDIS_PASSWORD+'@'+process.env.REDIS_HOST+':'+process.env.REDIS_PORT+'', {
+    namespace: 'users'
+});
+keyv.on('error', err => console.log('Connection Error', err));
 
-// function collectRequestData(request, callback) {
-//     const FORM_URLENCODED = 'application/x-www-form-urlencoded';
-//     if (request.headers['content-type'] === FORM_URLENCODED) {
-//         let body = '';
-//         request.on('data', chunk => {
-//             body += chunk.toString();
-//         });
-//         request.on('end', () => {
-//             callback(parse(body));
-//         });
-//     } else {
-//         callback(null);
-//         console.log('ASSUUUUPPPP');
-        
-//     }
-// }
-var multipart = require('parse-multipart');
+// var multipart = require('parse-multipart');
 var qs = require('qs');
+require('dotenv').config();
+
 
 module.exports = async function (context, req) {
-    context.log('JavaScript HTTP trigger function processed a request.');
-    console.log(req.query);
-    
+    context.log('=======================================');
     if (req.method === 'POST') {
         var data = qs.parse(req.body);
 
+        var key_status = await keyv.set(data.username);
 
-          context.res = {
-              status: 400,
-              body: data
-          };
-    
+        if (key_status) {
+            var insert_status = await asyncRedisClient.hmset(data.username, {
+                'password': data.password,
+                'name': data.name,
+                'email' : data.email
+            });
+            
+            if (insert_status == "OK") {
+                context.res.status(201).json('Data berhasil dimasukan.');
+            }
+            else{
+                context.res.status(400).json('Ada kesalahan ketika memasukan data.');
+            }
+        }
+        else {
+            context.res.status(400).json('Ada kesalahan ketika memasukan keys.');
+        }
+
 
     }
-
-    // var body_buffer = Buffer.from(req.body);
-    // var boundary = multipart.getBoundary(req.headers['content-type']);
-    // var parts = multipart.Parse(req.body);
-
-    // console.log(body_buffer);
-    // console.log(boundary);
-    // console.log(req);
-    
-    // console.log(data);
-    
-    
-
-    // console.log(req);
-    
-    // var data_post = req.body;
-    // console.log(data_post.toString());
-    
 
     // if (req.query.name || (req.body && req.body.name)) {
     //     context.res = {

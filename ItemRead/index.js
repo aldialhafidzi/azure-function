@@ -1,15 +1,17 @@
+require('dotenv').config();
+
 var redis = require("redis"),
     client = redis.createClient({
-        port: '6379',
-        host: 'localhost',
-        password: 'redis'
+        port: process.env.REDIS_PORT,
+        host: process.env.REDIS_HOST,
+        password: process.env.REDIS_PASSWORD
     });
 
 const asyncRedis = require("async-redis");
 const asyncRedisClient = asyncRedis.decorate(client);
 
 const Keyv = require('keyv');
-const keyv = new Keyv('redis://root:redis@localhost:6379', {
+const keyv = new Keyv('redis://'+process.env.REDIS_USER+':'+process.env.REDIS_PASSWORD+'@'+process.env.REDIS_HOST+':'+process.env.REDIS_PORT+'', {
     namespace: 'wilayah_2018'
 });
 keyv.on('error', err => console.log('Connection Error', err));
