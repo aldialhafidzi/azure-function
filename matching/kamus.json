@@ -1,0 +1,928 @@
+[
+    {
+      "pid": 236,
+      "p_name": "3 packs Dunhill Ultra",
+      "p_another_name_1": "3 packs Dunhill Ultra"
+    },
+    {
+      "pid": 80,
+      "p_name": "A Mild",
+      "p_another_name_1": "A Mild"
+    },
+    {
+      "pid": 1182,
+      "p_name": "A Mild Blue",
+      "p_another_name_1": "A Mild Blue"
+    },
+    {
+      "pid": 119,
+      "p_name": "A Mild Menthol",
+      "p_another_name_1": "A Mild Menthol"
+    },
+    {
+      "pid": 120,
+      "p_name": "A Motion",
+      "p_another_name_1": "A Motion"
+    },
+    {
+      "pid": 233,
+      "p_name": "A PLATINUM",
+      "p_another_name_1": "A PLATINUM"
+    },
+    {
+      "pid": 212,
+      "p_name": "Access Mild",
+      "p_another_name_1": "Access Mild"
+    },
+    {
+      "pid": 121,
+      "p_name": "Aga",
+      "p_another_name_1": "Aga"
+    },
+    {
+      "pid": 122,
+      "p_name": "Alami",
+      "p_another_name_1": "Alami"
+    },
+    {
+      "pid": 123,
+      "p_name": "Amition",
+      "p_another_name_1": "Amition"
+    },
+    {
+      "pid": 124,
+      "p_name": "Amos",
+      "p_another_name_1": "Amos"
+    },
+    {
+      "pid": 125,
+      "p_name": "Apache Filter",
+      "p_another_name_1": "Apache Filter"
+    },
+    {
+      "pid": 126,
+      "p_name": "Apache Gold",
+      "p_another_name_1": "Apache Gold"
+    },
+    {
+      "pid": 223,
+      "p_name": "Apache Kretek",
+      "p_another_name_1": "Apache Kretek"
+    },
+    {
+      "pid": 1001,
+      "p_name": "Ardath",
+      "p_another_name_1": "Ardath"
+    },
+    {
+      "pid": 127,
+      "p_name": "Ares",
+      "p_another_name_1": "Ares"
+    },
+    {
+      "pid": 128,
+      "p_name": "Aroma",
+      "p_another_name_1": "Aroma"
+    },
+    {
+      "pid": 129,
+      "p_name": "Asatu",
+      "p_another_name_1": "Asatu"
+    },
+    {
+      "pid": 130,
+      "p_name": "Avolution",
+      "p_another_name_1": "Avolution"
+    },
+    {
+      "pid": 131,
+      "p_name": "Avolution Menthol",
+      "p_another_name_1": "Avolution Menthol"
+    },
+    {
+      "pid": 111,
+      "p_name": "Bentoel Biru",
+      "p_another_name_1": "Bentoel Biru"
+    },
+    {
+      "pid": 110,
+      "p_name": "Bintang Buana",
+      "p_another_name_1": "Bintang Buana"
+    },
+    {
+      "pid": 132,
+      "p_name": "Black Mild",
+      "p_another_name_1": "Black Mild"
+    },
+    {
+      "pid": 133,
+      "p_name": "BMW",
+      "p_another_name_1": "BMW"
+    },
+    {
+      "pid": 134,
+      "p_name": "Bohem",
+      "p_another_name_1": "Bohem"
+    },
+    {
+      "pid": 135,
+      "p_name": "Bokormas",
+      "p_another_name_1": "Bokormas"
+    },
+    {
+      "pid": 136,
+      "p_name": "Bosini",
+      "p_another_name_1": "Bosini"
+    },
+    {
+      "pid": 137,
+      "p_name": "Camel",
+      "p_another_name_1": "Camel"
+    },
+    {
+      "pid": 1165,
+      "p_name": "Camel Active",
+      "p_another_name_1": "Camel Active"
+    },
+    {
+      "pid": 1166,
+      "p_name": "Camel Black",
+      "p_another_name_1": "Camel Black"
+    },
+    {
+      "pid": 1181,
+      "p_name": "Camel Mild",
+      "p_another_name_1": "Camel Mild"
+    },
+    {
+      "pid": 1184,
+      "p_name": "Camel Mild Click",
+      "p_another_name_1": "Camel Mild Click"
+    },
+    {
+      "pid": 1164,
+      "p_name": "Camel White",
+      "p_another_name_1": "Camel White"
+    },
+    {
+      "pid": 138,
+      "p_name": "Cepo",
+      "p_another_name_1": "Cepo"
+    },
+    {
+      "pid": 139,
+      "p_name": "Cerutu",
+      "p_another_name_1": "Cerutu"
+    },
+    {
+      "pid": 227,
+      "p_name": "Chief",
+      "p_another_name_1": "Chief"
+    },
+    {
+      "pid": 81,
+      "p_name": "Clas Mild",
+      "p_another_name_1": "Clas Mild"
+    },
+    {
+      "pid": 78,
+      "p_name": "Club Mild",
+      "p_another_name_1": "Club Mild"
+    },
+    {
+      "pid": 103,
+      "p_name": "Country",
+      "p_another_name_1": "Country"
+    },
+    {
+      "pid": 4,
+      "p_name": "Dunhill Filter 16",
+      "p_another_name_1": "DH Filter 16"
+    },
+    {
+      "pid": 6,
+      "p_name": "Dunhill Mild 16",
+      "p_another_name_1": "DH Mild 16"
+    },
+    {
+      "pid": 214,
+      "p_name": "Dunhill Mild 16 LEP",
+      "p_another_name_1": "DH Mild 16 LEP"
+    },
+    {
+      "pid": 5,
+      "p_name": "Dunhill Mild 20",
+      "p_another_name_1": "DH Mild 20",
+      "p_another_name_12": "Dunhill Mild"
+    },
+    {
+      "pid": 1,
+      "p_name": "Dunhill Full Flavour",
+      "p_another_name_1": "DHI Full Flavour"
+    },
+    {
+      "pid": 2,
+      "p_name": "Dunhill Light",
+      "p_another_name_1": "DHI Lights"
+    },
+    {
+      "pid": 3,
+      "p_name": "Dunhill Menthol",
+      "p_another_name_1": "DHI Menthol"
+    },
+    {
+      "pid": 140,
+      "p_name": "Diplomat",
+      "p_another_name_1": "Diplomat"
+    },
+    {
+      "pid": 141,
+      "p_name": "Diplomat Mild",
+      "p_another_name_1": "Diplomat Mild"
+    },
+    {
+      "pid": 142,
+      "p_name": "Djarum 76",
+      "p_another_name_1": "Djarum 76"
+    },
+    {
+      "pid": 143,
+      "p_name": "Djarum 76 Filter",
+      "p_another_name_1": "Djarum 76 Filter"
+    },
+    {
+      "pid": 144,
+      "p_name": "Djarum Black",
+      "p_another_name_1": "Djarum Black"
+    },
+    {
+      "pid": 1174,
+      "p_name": "Djarum Black Mild",
+      "p_another_name_1": "Djarum Black Mild"
+    },
+    {
+      "pid": 145,
+      "p_name": "Djarum Coklat",
+      "p_another_name_1": "Djarum Coklat"
+    },
+    {
+      "pid": 85,
+      "p_name": "Djarum MLD",
+      "p_another_name_1": "Djarum MLD"
+    },
+    {
+      "pid": 87,
+      "p_name": "Djarum Super",
+      "p_another_name_1": "Djarum Super"
+    },
+    {
+      "pid": 146,
+      "p_name": "Dji Sam Soe Filter",
+      "p_another_name_1": "Dji Sam Soe Filter"
+    },
+    {
+      "pid": 117,
+      "p_name": "Dji Sam Soe Kretek",
+      "p_another_name_1": "Dji Sam Soe Kretek"
+    },
+    {
+      "pid": 147,
+      "p_name": "Dji Sam Soe Premium",
+      "p_another_name_1": "Dji Sam Soe Premium"
+    },
+    {
+      "pid": 1170,
+      "p_name": "Dunhill Filter",
+      "p_another_name_1": "Dunhill Filter"
+    },
+    {
+      "pid": 1183,
+      "p_name": "Dunhill International Blue",
+      "p_another_name_1": "Dunhill International Blue"
+    },
+    {
+      "pid": 1180,
+      "p_name": "Dunhill International Green",
+      "p_another_name_1": "Dunhill International Green"
+    },
+    {
+      "pid": 1187,
+      "p_name": "Dunhill International Red",
+      "p_another_name_1": "Dunhill International Red"
+    },
+    {
+      "pid": 1003,
+      "p_name": "Dunhill Mild Evoque",
+      "p_another_name_1": "Dunhill Mild Evoque"
+    },
+    {
+      "pid": 235,
+      "p_name": "Dunhill Ultra",
+      "p_another_name_1": "Dunhill Ultra"
+    },
+    {
+      "pid": 148,
+      "p_name": "Envio",
+      "p_another_name_1": "Envio"
+    },
+    {
+      "pid": 99,
+      "p_name": "Esse",
+      "p_another_name_1": "Esse"
+    },
+    {
+      "pid": 1168,
+      "p_name": "Esse Berry Pop",
+      "p_another_name_1": "Esse Berry Pop"
+    },
+    {
+      "pid": 1159,
+      "p_name": "Esse Change",
+      "p_another_name_1": "Esse Change"
+    },
+    {
+      "pid": 1157,
+      "p_name": "Esse Honey Pop",
+      "p_another_name_1": "Esse Honey Pop"
+    },
+    {
+      "pid": 149,
+      "p_name": "Esse Mild",
+      "p_another_name_1": "Esse Mild"
+    },
+    {
+      "pid": 150,
+      "p_name": "Executive Burang",
+      "p_another_name_1": "Executive Burang"
+    },
+    {
+      "pid": 151,
+      "p_name": "Fix Mild",
+      "p_another_name_1": "Fix Mild"
+    },
+    {
+      "pid": 221,
+      "p_name": "Galan",
+      "p_another_name_1": "Galan"
+    },
+    {
+      "pid": 222,
+      "p_name": "Galan Mild",
+      "p_another_name_1": "Galan Mild"
+    },
+    {
+      "pid": 152,
+      "p_name": "Geo Mild",
+      "p_another_name_1": "Geo Mild"
+    },
+    {
+      "pid": 153,
+      "p_name": "Gudang Garam Djaja",
+      "p_another_name_1": "GG Djaja"
+    },
+    {
+      "pid": 114,
+      "p_name": "Gudang Garam Filter",
+      "p_another_name_1": "GG Filter"
+    },
+    {
+      "pid": 154,
+      "p_name": "Gudang Garam Merah",
+      "p_another_name_1": "GG Merah"
+    },
+    {
+      "pid": 84,
+      "p_name": "Gudang Garam Mild",
+      "p_another_name_1": "GG Mild"
+    },
+    {
+      "pid": 155,
+      "p_name": "Gudang Garam Profesional",
+      "p_another_name_1": "GG Profesional"
+    },
+    {
+      "pid": 156,
+      "p_name": "Gudang Garam Shiver",
+      "p_another_name_1": "GG Shiver"
+    },
+    {
+      "pid": 157,
+      "p_name": "Gudang Garam Signature",
+      "p_another_name_1": "GG Signature"
+    },
+    {
+      "pid": 89,
+      "p_name": "Gudang Garam Surya",
+      "p_another_name_1": "GG Surya"
+    },
+    {
+      "pid": 158,
+      "p_name": "Gudang Garam Surya Pro",
+      "p_another_name_1": "GG Surya Pro"
+    },
+    {
+      "pid": 159,
+      "p_name": "Grendel",
+      "p_another_name_1": "Grendel"
+    },
+    {
+      "pid": 160,
+      "p_name": "Gudang Baru",
+      "p_another_name_1": "Gudang Baru"
+    },
+    {
+      "pid": 1175,
+      "p_name": "Gudang Garam International",
+      "p_another_name_1": "Gudang Garam International"
+    },
+    {
+      "pid": 1167,
+      "p_name": "Gudang Garam Pro Mild",
+      "p_another_name_1": "Gudang Garam Pro Mild"
+    },
+    {
+      "pid": 231,
+      "p_name": "H Mind Mild",
+      "p_another_name_1": "H Mind Mild"
+    },
+    {
+      "pid": 161,
+      "p_name": "Halim",
+      "p_another_name_1": "Halim"
+    },
+    {
+      "pid": 162,
+      "p_name": "Herbal Casika",
+      "p_another_name_1": "Herbal Casika"
+    },
+    {
+      "pid": 163,
+      "p_name": "Hits Mild",
+      "p_another_name_1": "Hits Mild"
+    },
+    {
+      "pid": 164,
+      "p_name": "In Mild",
+      "p_another_name_1": "In Mild"
+    },
+    {
+      "pid": 165,
+      "p_name": "Inter Mild",
+      "p_another_name_1": "Inter Mild"
+    },
+    {
+      "pid": 166,
+      "p_name": "Intro",
+      "p_another_name_1": "Intro"
+    },
+    {
+      "pid": 167,
+      "p_name": "Jinggo",
+      "p_another_name_1": "Jinggo"
+    },
+    {
+      "pid": 168,
+      "p_name": "Kalimas SKT",
+      "p_another_name_1": "Kalimas SKT"
+    },
+    {
+      "pid": 170,
+      "p_name": "Kerbau",
+      "p_another_name_1": "Kerbau"
+    },
+    {
+      "pid": 169,
+      "p_name": "Kerbau Mild",
+      "p_another_name_1": "Kerbau Mild"
+    },
+    {
+      "pid": 171,
+      "p_name": "Klintingan",
+      "p_another_name_1": "Klintingan"
+    },
+    {
+      "pid": 172,
+      "p_name": "Kristal",
+      "p_another_name_1": "Kristal"
+    },
+    {
+      "pid": 91,
+      "p_name": "LA Bold",
+      "p_another_name_1": "LA Bold"
+    },
+    {
+      "pid": 173,
+      "p_name": "LA Ice",
+      "p_another_name_1": "LA Ice"
+    },
+    {
+      "pid": 82,
+      "p_name": "LA Lights",
+      "p_another_name_1": "LA Lights"
+    },
+    {
+      "pid": 1190,
+      "p_name": "LA Lights Menthol",
+      "p_another_name_1": "LA Lights Menthol"
+    },
+    {
+      "pid": 174,
+      "p_name": "LA Menthol",
+      "p_another_name_1": "LA Menthol"
+    },
+    {
+      "pid": 175,
+      "p_name": "LM",
+      "p_another_name_1": "LM"
+    },
+    {
+      "pid": 176,
+      "p_name": "Lodjie",
+      "p_another_name_1": "Lodjie"
+    },
+    {
+      "pid": 1000,
+      "p_name": "Lucky Strike 16",
+      "p_another_name_1": "LS 16"
+    },
+    {
+      "pid": 225,
+      "p_name": "Lucky Strike Bold 12",
+      "p_another_name_1": "LS Bold 12",
+      "p_another_name_2": "LSB 12"
+    },
+    {
+      "pid": 1002,
+      "p_name": "Lucky Strike Bold 16",
+      "p_another_name_1": "LS Bold 16"
+    },
+    {
+      "pid": 77,
+      "p_name": "Lucky Strike Mild 12",
+      "p_another_name_1": "LS Mild 12",
+      "p_another_name_2": "LSM 12"
+    },
+    {
+      "pid": 15,
+      "p_name": "Lucky Strike Mild 16",
+      "p_another_name_1": "LS Mild 16",
+      "p_another_name_2": "LSM 16"
+    },
+    {
+      "pid": 216,
+      "p_name": "Lucky StrikeW Blue",
+      "p_another_name_1": "LSW Blue",
+      "p_another_name_2": "LSWB 20"
+    },
+    {
+      "pid": 215,
+      "p_name": "Lucky StrikeW Red",
+      "p_another_name_1": "LSW Red",
+      "p_another_name_2": "LSWR 20"
+    },
+    {
+      "pid": 1189,
+      "p_name": "Lucky Strike Lights",
+      "p_another_name_1": "Lucky Strike Lights"
+    },
+    {
+      "pid": 1191,
+      "p_name": "Lucky Strike Original Red",
+      "p_another_name_1": "Lucky Strike Original Red"
+    },
+    {
+      "pid": 226,
+      "p_name": "Lucky Strike Switch",
+      "p_another_name_1": "Lucky Strike Switch"
+    },
+    {
+      "pid": 230,
+      "p_name": "Luffman",
+      "p_another_name_1": "Luffman"
+    },
+    {
+      "pid": 229,
+      "p_name": "Luffman Filter",
+      "p_another_name_1": "Luffman Filter"
+    },
+    {
+      "pid": 228,
+      "p_name": "Luffman Mild",
+      "p_another_name_1": "Luffman Mild"
+    },
+    {
+      "pid": 118,
+      "p_name": "Magnum Filter",
+      "p_another_name_1": "Magnum Filter"
+    },
+    {
+      "pid": 112,
+      "p_name": "Magnum Mild",
+      "p_another_name_1": "Magnum Mild"
+    },
+    {
+      "pid": 177,
+      "p_name": "Marcopolo",
+      "p_another_name_1": "Marcopolo"
+    },
+    {
+      "pid": 116,
+      "p_name": "Marlboro Filter",
+      "p_another_name_1": "Marlboro Filter"
+    },
+    {
+      "pid": 1162,
+      "p_name": "Marlboro Filter Black",
+      "p_another_name_1": "Marlboro Filter Black"
+    },
+    {
+      "pid": 1154,
+      "p_name": "Marlboro Gold Lights",
+      "p_another_name_1": "Marlboro Gold Lights"
+    },
+    {
+      "pid": 1193,
+      "p_name": "Marlboro White Menthol",
+      "p_another_name_1": "Marlboro White Menthol"
+    },
+    {
+      "pid": 178,
+      "p_name": "Melinjo",
+      "p_another_name_1": "Melinjo"
+    },
+    {
+      "pid": 179,
+      "p_name": "Menara",
+      "p_another_name_1": "Menara"
+    },
+    {
+      "pid": 98,
+      "p_name": "Mevius",
+      "p_another_name_1": "Mevius"
+    },
+    {
+      "pid": 1192,
+      "p_name": "Mevius Option Purple",
+      "p_another_name_1": "Mevius Option Purple"
+    },
+    {
+      "pid": 180,
+      "p_name": "Minak Djinggo",
+      "p_another_name_1": "Minak Djinggo"
+    },
+    {
+      "pid": 96,
+      "p_name": "Marlboro Black Menthol",
+      "p_another_name_1": "MLB Black Menthol"
+    },
+    {
+      "pid": 97,
+      "p_name": "Marlboro Ice Burst",
+      "p_another_name_1": "MLB Ice Burst"
+    },
+    {
+      "pid": 94,
+      "p_name": "Marlboro Lights",
+      "p_another_name_1": "MLB Lights"
+    },
+    {
+      "pid": 95,
+      "p_name": "Marlboro Menthol",
+      "p_another_name_1": "MLB Menthol"
+    },
+    {
+      "pid": 93,
+      "p_name": "Marlboro Red",
+      "p_another_name_1": "MLB Red"
+    },
+    {
+      "pid": 234,
+      "p_name": "MLD BLACK SERIES",
+      "p_another_name_1": "MLD BLACK SERIES"
+    },
+    {
+      "pid": 181,
+      "p_name": "Mustang",
+      "p_another_name_1": "Mustang"
+    },
+    {
+      "pid": 105,
+      "p_name": "Neo Mild",
+      "p_another_name_1": "Neo Mild"
+    },
+    {
+      "pid": 182,
+      "p_name": "Neslite",
+      "p_another_name_1": "Neslite"
+    },
+    {
+      "pid": 183,
+      "p_name": "Nuu Mild",
+      "p_another_name_1": "Nuu Mild"
+    },
+    {
+      "pid": 106,
+      "p_name": "One Mild",
+      "p_another_name_1": "One Mild"
+    },
+    {
+      "pid": 184,
+      "p_name": "Orbit",
+      "p_another_name_1": "Orbit"
+    },
+    {
+      "pid": 213,
+      "p_name": "Others",
+      "p_another_name_1": "Others"
+    },
+    {
+      "pid": 185,
+      "p_name": "Pamor",
+      "p_another_name_1": "Pamor"
+    },
+    {
+      "pid": 186,
+      "p_name": "Panamas",
+      "p_another_name_1": "Panamas"
+    },
+    {
+      "pid": 187,
+      "p_name": "Polo Mild",
+      "p_another_name_1": "Polo Mild"
+    },
+    {
+      "pid": 188,
+      "p_name": "Potenza",
+      "p_another_name_1": "Potenza"
+    },
+    {
+      "pid": 86,
+      "p_name": "Pro Mild",
+      "p_another_name_1": "Pro Mild"
+    },
+    {
+      "pid": 108,
+      "p_name": "Rawit",
+      "p_another_name_1": "Rawit"
+    },
+    {
+      "pid": 220,
+      "p_name": "Red Black",
+      "p_another_name_1": "Red Black"
+    },
+    {
+      "pid": 189,
+      "p_name": "Red Mild",
+      "p_another_name_1": "Red Mild"
+    },
+    {
+      "pid": 190,
+      "p_name": "Revolution",
+      "p_another_name_1": "Revolution"
+    },
+    {
+      "pid": 191,
+      "p_name": "Rokok Linting",
+      "p_another_name_1": "Rokok Linting"
+    },
+    {
+      "pid": 192,
+      "p_name": "Romen",
+      "p_another_name_1": "Romen"
+    },
+    {
+      "pid": 193,
+      "p_name": "Sampoerna Kretek",
+      "p_another_name_1": "Sampoerna Kretek"
+    },
+    {
+      "pid": 194,
+      "p_name": "Score Mild",
+      "p_another_name_1": "Score Mild"
+    },
+    {
+      "pid": 109,
+      "p_name": "Sejati",
+      "p_another_name_1": "Sejati"
+    },
+    {
+      "pid": 195,
+      "p_name": "Senior",
+      "p_another_name_1": "Senior"
+    },
+    {
+      "pid": 197,
+      "p_name": "Sinergi Mild",
+      "p_another_name_1": "Sinergi Mild"
+    },
+    {
+      "pid": 198,
+      "p_name": "Slic Mild",
+      "p_another_name_1": "Slic Mild"
+    },
+    {
+      "pid": 199,
+      "p_name": "Sriwedari",
+      "p_another_name_1": "Sriwedari"
+    },
+    {
+      "pid": 79,
+      "p_name": "Starmild",
+      "p_another_name_1": "Starmild"
+    },
+    {
+      "pid": 200,
+      "p_name": "Sukun Mild",
+      "p_another_name_1": "Sukun Mild"
+    },
+    {
+      "pid": 201,
+      "p_name": "Tabaco",
+      "p_another_name_1": "Tabaco"
+    },
+    {
+      "pid": 107,
+      "p_name": "Tali Jagat",
+      "p_another_name_1": "Tali Jagat"
+    },
+    {
+      "pid": 202,
+      "p_name": "Tembakau",
+      "p_another_name_1": "Tembakau"
+    },
+    {
+      "pid": 219,
+      "p_name": "Ten Mild",
+      "p_another_name_1": "Ten Mild"
+    },
+    {
+      "pid": 203,
+      "p_name": "Tuton Filter",
+      "p_another_name_1": "Tuton Filter"
+    },
+    {
+      "pid": 224,
+      "p_name": "Tuton Kretek",
+      "p_another_name_1": "Tuton Kretek"
+    },
+    {
+      "pid": 92,
+      "p_name": "U Bold",
+      "p_another_name_1": "U Bold"
+    },
+    {
+      "pid": 83,
+      "p_name": "U Mild",
+      "p_another_name_1": "U Mild"
+    },
+    {
+      "pid": 204,
+      "p_name": "Ultra",
+      "p_another_name_1": "Ultra"
+    },
+    {
+      "pid": 218,
+      "p_name": "Union",
+      "p_another_name_1": "Union"
+    },
+    {
+      "pid": 205,
+      "p_name": "Urban Mild",
+      "p_another_name_1": "Urban Mild"
+    },
+    {
+      "pid": 999,
+      "p_name": "Vape",
+      "p_another_name_1": "Vape"
+    },
+    {
+      "pid": 206,
+      "p_name": "Viper",
+      "p_another_name_1": "Viper"
+    },
+    {
+      "pid": 207,
+      "p_name": "Warkop",
+      "p_another_name_1": "Warkop"
+    },
+    {
+      "pid": 208,
+      "p_name": "Win Mild",
+      "p_another_name_1": "Win Mild"
+    },
+    {
+      "pid": 209,
+      "p_name": "Winston",
+      "p_another_name_1": "Winston"
+    },
+    {
+      "pid": 210,
+      "p_name": "Wismilak",
+      "p_another_name_1": "Wismilak"
+    },
+    {
+      "pid": 211,
+      "p_name": "Xtrail",
+      "p_another_name_1": "Xtrail"
+    }
+]
